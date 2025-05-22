@@ -1,0 +1,10 @@
+Username,Timestamp,Hand,Completion Time,Dominant Emotion,Avg Movement Speed,Avg Error Distance
+AR,2025-05-16 17:51:22,R,89.91,Neutral,256.48,10.47
+AR,2025-05-16 17:54:10,R,85.34,Neutral,662.78,11.71
+AR,2025-05-16 18:03:09,R,69.36,Neutral,262.81,7.45
+test_user,2025-05-16 18:09:35,R,10.35,Neutral,227.21,0.00
+test_user,2025-05-16 22:12:01,R,95.34,Neutral,63.74,0.58
+Abhiram,2025-05-21 20:46:31,R,157.14,Neutral,69.54,1.00
+Abhiram,2025-05-21 20:49:43,R,64.37,Neutral,45.94,0.52
+Abhiram,2025-05-21 20:51:18,R,159.19,Neutral,44.60,0.60
+Abhiram,2025-05-22 21:52:30,R,105.72,Neutral,92.10,1.01

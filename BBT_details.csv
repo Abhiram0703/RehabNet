@@ -1,0 +1,6 @@
+Username,Timestamp,Hand,Score,Tolerance,Emotion Score,Dominant Emotion,Avg Movement Speed,Avg Time per Block,Success Rate
+AR,2025-05-16 17:31:18,R,4,2.5,42,Neutral,523.06,1.14,80.0%
+Abhiram,2025-05-21 20:34:40,R,11,2.5,33,Negative,300.77,2.36,68.8%
+Abhiram,2025-05-21 20:36:55,R,10,2.5,40,Neutral,260.33,2.62,76.9%
+Abhiram,2025-05-21 20:40:45,R,12,2.5,46,Neutral,294.99,2.16,80.0%
+Abhiram,2025-05-22 21:50:22,R,7,2.5,33,Negative,253.29,1.21,38.9%
